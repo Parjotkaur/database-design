@@ -1,1 +1,1 @@
-# database design
+# database design case study :FreshCo
